@@ -1,0 +1,706 @@
+# depslib dependency file v1.0
+1653625858 source:e:\codeblocks\projects\boardgame, laying on ground test\armoredtruck.cpp
+	"ArmoredTruck.h"
+
+1651686609 e:\codeblocks\projects\boardgame, laying on ground test\armoredtruck.h
+	<SDL.h>
+	"Timer.h"
+	<stdio.h>
+
+1451764694 e:\sdl 2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\begin_code.h
+
+1451764694 e:\sdl 2\include\sdl2\close_code.h
+
+1451764694 e:\sdl 2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 e:\sdl 2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1651181621 e:\codeblocks\projects\boardgame, laying on ground test\timer.h
+	<SDL.h>
+
+1652595633 source:e:\codeblocks\projects\boardgame, laying on ground test\bullet.cpp
+	"Bullet.h"
+
+1652313553 e:\codeblocks\projects\boardgame, laying on ground test\bullet.h
+	<SDL.h>
+	"Timer.h"
+
+1620728057 source:e:\codeblocks\projects\boardgame, laying on ground test\enemy.cpp
+	"Enemy.h"
+
+1620723016 e:\codeblocks\projects\boardgame, laying on ground test\enemy.h
+	<SDL.h>
+	"Timer.h"
+
+1590882815 source:e:\codeblocks\projects\boardgame, laying on ground test\flatsurface.cpp
+	"FlatSurface.h"
+
+1590882732 e:\codeblocks\projects\boardgame, laying on ground test\flatsurface.h
+	<SDL.h>
+
+1651863866 source:e:\codeblocks\projects\boardgame, laying on ground test\graphics.cpp
+	"Graphics.h"
+
+1595927980 e:\codeblocks\projects\boardgame, laying on ground test\graphics.h
+	<SDL.h>
+	<stdio.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1451800374 e:\sdl 2\sdl2_image-2.0.1\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454362934 e:\sdl 2\sdl2_ttf-2.0.14\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451801792 e:\sdl 2\sdl2_mixer-2.0.1\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1595831838 source:e:\codeblocks\projects\boardgame, laying on ground test\ledge.cpp
+	"Ledge.h"
+
+1652132189 e:\codeblocks\projects\boardgame, laying on ground test\ledge.h
+	<SDL.h>
+
+1654227552 source:e:\codeblocks\projects\boardgame, laying on ground test\main.cpp
+	<iostream>
+	<sstream>
+	<iomanip>
+	<cmath>
+	<stdio.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"Graphics.h"
+	"Texture.h"
+	"Texture2.h"
+	"Player.h"
+	"Timer.h"
+	"FlatSurface.h"
+	"Bullet.h"
+	"Zipline.h"
+	"Enemy.h"
+	"Snowman.h"
+	"Ledge.h"
+	"ArmoredTruck.h"
+	"RoboMaggot.h"
+
+1652904420 e:\codeblocks\projects\boardgame, laying on ground test\texture.h
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	"Timer.h"
+
+1649440604 e:\codeblocks\projects\boardgame, laying on ground test\texture2.h
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	"Timer.h"
+
+1654202709 e:\codeblocks\projects\boardgame, laying on ground test\player.h
+	<SDL.h>
+	"Timer.h"
+	<stdio.h>
+
+1514777176 e:\codeblocks\projects\boardgame, laying on ground test\zipline.h
+	<SDL.h>
+	"Timer.h"
+	<stdio.h>
+
+1649128858 e:\codeblocks\projects\boardgame, laying on ground test\snowman.h
+	<SDL.h>
+	"Timer.h"
+	<stdio.h>
+
+1652396392 e:\codeblocks\projects\boardgame, laying on ground test\robomaggot.h
+	<SDL.h>
+	"Timer.h"
+
+1654227658 source:e:\codeblocks\projects\boardgame, laying on ground test\player.cpp
+	"Player.h"
+
+1652464416 source:e:\codeblocks\projects\boardgame, laying on ground test\robomaggot.cpp
+	"RoboMaggot.h"
+
+1651174049 source:e:\codeblocks\projects\boardgame, laying on ground test\snowman.cpp
+	"Snowman.h"
+
+1654203317 source:e:\codeblocks\projects\boardgame, laying on ground test\texture.cpp
+	"Texture.h"
+
+1649440604 source:e:\codeblocks\projects\boardgame, laying on ground test\texture2.cpp
+	"Texture2.h"
+
+1651181621 source:e:\codeblocks\projects\boardgame, laying on ground test\timer.cpp
+	"Timer.h"
+
+1651777825 source:e:\codeblocks\projects\boardgame, laying on ground test\zipline.cpp
+	"Zipline.h"
+
+1663806442 source:e:\codeblocks\projects\boardgame, gunbounce test\armoredtruck.cpp
+	"ArmoredTruck.h"
+
+1663726570 e:\codeblocks\projects\boardgame, gunbounce test\armoredtruck.h
+	<SDL.h>
+	"Timer.h"
+	<stdio.h>
+
+1651178021 e:\codeblocks\projects\boardgame, gunbounce test\timer.h
+	<SDL.h>
+
+1668940811 source:e:\codeblocks\projects\boardgame, gunbounce test\bullet.cpp
+	"Bullet.h"
+
+1668940765 e:\codeblocks\projects\boardgame, gunbounce test\bullet.h
+	<SDL.h>
+	"Timer.h"
+	<cstdlib>
+
+1663799058 source:e:\codeblocks\projects\boardgame, gunbounce test\enemy.cpp
+	"Enemy.h"
+
+1663746445 e:\codeblocks\projects\boardgame, gunbounce test\enemy.h
+	<SDL.h>
+	"Timer.h"
+	<stdio.h>
+
+1590879215 source:e:\codeblocks\projects\boardgame, gunbounce test\flatsurface.cpp
+	"FlatSurface.h"
+
+1590879132 e:\codeblocks\projects\boardgame, gunbounce test\flatsurface.h
+	<SDL.h>
+
+1658575333 source:e:\codeblocks\projects\boardgame, gunbounce test\graphics.cpp
+	"Graphics.h"
+
+1663398573 e:\codeblocks\projects\boardgame, gunbounce test\graphics.h
+	<SDL.h>
+	<stdio.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1595828238 source:e:\codeblocks\projects\boardgame, gunbounce test\ledge.cpp
+	"Ledge.h"
+
+1652128589 e:\codeblocks\projects\boardgame, gunbounce test\ledge.h
+	<SDL.h>
+
+1669265731 source:e:\codeblocks\projects\boardgame, gunbounce test\main.cpp
+	<iostream>
+	<sstream>
+	<iomanip>
+	<cmath>
+	<stdio.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"Graphics.h"
+	"Texture.h"
+	"Texture2.h"
+	"Player.h"
+	"Timer.h"
+	"FlatSurface.h"
+	"NonFlatSurface.h"
+	"Bullet.h"
+	"Zipline.h"
+	"Enemy.h"
+	"Snowman.h"
+	"Ledge.h"
+	"ArmoredTruck.h"
+	"RoboMaggot.h"
+	"Targets.h"
+	"TargetMaster.h"
+	"SharkRobot.h"
+	"Kultenta.h"
+	"TNTgent.h"
+	"Menus.h"
+	"Wermbl.h"
+	"GarbageGaurdian.h"
+	"KongaLee.h"
+	"Sorse.h"
+	"Door.h"
+
+1668920190 e:\codeblocks\projects\boardgame, gunbounce test\texture.h
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	"Timer.h"
+
+1649437004 e:\codeblocks\projects\boardgame, gunbounce test\texture2.h
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	"Timer.h"
+
+1669097215 e:\codeblocks\projects\boardgame, gunbounce test\player.h
+	<SDL.h>
+	"Timer.h"
+	<stdio.h>
+
+1514773576 e:\codeblocks\projects\boardgame, gunbounce test\zipline.h
+	<SDL.h>
+	"Timer.h"
+	<stdio.h>
+
+1649125258 e:\codeblocks\projects\boardgame, gunbounce test\snowman.h
+	<SDL.h>
+	"Timer.h"
+	<stdio.h>
+
+1655875812 e:\codeblocks\projects\boardgame, gunbounce test\robomaggot.h
+	<SDL.h>
+	"Timer.h"
+
+1669097215 source:e:\codeblocks\projects\boardgame, gunbounce test\player.cpp
+	"Player.h"
+
+1666220863 source:e:\codeblocks\projects\boardgame, gunbounce test\robomaggot.cpp
+	"RoboMaggot.h"
+
+1651170449 source:e:\codeblocks\projects\boardgame, gunbounce test\snowman.cpp
+	"Snowman.h"
+
+1669169492 source:e:\codeblocks\projects\boardgame, gunbounce test\texture.cpp
+	"Texture.h"
+
+1649437004 source:e:\codeblocks\projects\boardgame, gunbounce test\texture2.cpp
+	"Texture2.h"
+
+1651178021 source:e:\codeblocks\projects\boardgame, gunbounce test\timer.cpp
+	"Timer.h"
+
+1651774225 source:e:\codeblocks\projects\boardgame, gunbounce test\zipline.cpp
+	"Zipline.h"
+
+1655971072 e:\codeblocks\projects\boardgame, gunbounce test\targets.h
+	<SDL.h>
+	"Timer.h"
+
+1656042498 source:e:\codeblocks\projects\boardgame, gunbounce test\targets.cpp
+	"Targets.h"
+
+1655956906 e:\codeblocks\projects\boardgame, gunbounce test\targetmaster.h
+	<SDL.h>
+	"Timer.h"
+	"Targets.h"
+	<cstdlib>
+
+1656121781 source:e:\codeblocks\projects\boardgame, gunbounce test\targetmaster.cpp
+	"TargetMaster.h"
+
+1663730505 source:e:\codeblocks\projects\boardgame, gunbounce test\sharkrobot.cpp
+	"SharkRobot.h"
+
+1663730355 e:\codeblocks\projects\boardgame, gunbounce test\sharkrobot.h
+	<SDL.h>
+	"Timer.h"
+
+1663629618 source:e:\codeblocks\projects\boardgame, gunbounce test\kultenta.cpp
+	"Kultenta.h"
+
+1663629618 e:\codeblocks\projects\boardgame, gunbounce test\kultenta.h
+	<SDL.h>
+	"Timer.h"
+
+1667363324 e:\codeblocks\projects\boardgame, gunbounce test\tntgent.h
+	<SDL.h>
+	"Timer.h"
+	<stdio.h>
+
+1667446096 source:e:\codeblocks\projects\boardgame, gunbounce test\tntgent.cpp
+	"TNTgent.h"
+
+1663804275 e:\codeblocks\projects\boardgame, gunbounce test\menus.h
+	<SDL.h>
+	"Menus.h"
+	<stdio.h>
+
+1668567408 source:e:\codeblocks\projects\boardgame, gunbounce test\menus.cpp
+	"Menus.h"
+
+1667344064 source:e:\codeblocks\projects\boardgame, gunbounce test\nonflatsurface.cpp
+	"NonFlatSurface.h"
+
+1665556859 e:\codeblocks\projects\boardgame, gunbounce test\nonflatsurface.h
+	<SDL.h>
+
+1667445763 e:\codeblocks\projects\boardgame, gunbounce test\wermbl.h
+	<SDL.h>
+	"Timer.h"
+	<stdio.h>
+	<cstdlib>
+
+1667445764 source:e:\codeblocks\projects\boardgame, gunbounce test\wermbl.cpp
+	"Wermbl.h"
+
+1667344526 source:e:\codeblocks\projects\boardgame, gunbounce test\garbagegaurdian.cpp
+	"GarbageGaurdian.h"
+	"NonFlatSurface.h"
+
+1665566770 e:\codeblocks\projects\boardgame, gunbounce test\garbagegaurdian.h
+	<SDL.h>
+	"Timer.h"
+	<stdio.h>
+	<cstdlib>
+	"NonFlatSurface.h"
+
+1667377781 source:e:\codeblocks\projects\boardgame, gunbounce test\kongalee.cpp
+	"KongaLee.h"
+
+1666685344 e:\codeblocks\projects\boardgame, gunbounce test\kongalee.h
+	<SDL.h>
+	"Timer.h"
+	<stdio.h>
+	<cstdlib>
+
+1668940659 source:e:\codeblocks\projects\boardgame, gunbounce test\sorse.cpp
+	"Sorse.h"
+
+1668940180 e:\codeblocks\projects\boardgame, gunbounce test\sorse.h
+	<SDL.h>
+	"Timer.h"
+	<stdio.h>
+	<cstdlib>
+
+1669291738 source:e:\codeblocks\projects\boardgame, gunbounce test\door.cpp
+	"Door.h"
+
+1669101836 e:\codeblocks\projects\boardgame, gunbounce test\door.h
+	<SDL.h>
+

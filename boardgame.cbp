@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="boardgame" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/boardgame" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+					<Add directory="../boardgame - Copy - Copy - Copy final - Copy (2)" />
+					<Add directory="../NO FACE TEST" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/boardgame" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+					<Add directory="../boardgame - Copy - Copy - Copy final - Copy (2)" />
+					<Add directory="../NO FACE TEST" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="E:/SDL 2/include/SDL2" />
+			<Add directory="E:/SDL 2/SDL2_image-2.0.1/i686-w64-mingw32/include/SDL2" />
+			<Add directory="E:/SDL 2/SDL2_mixer-2.0.1/i686-w64-mingw32/include/SDL2" />
+			<Add directory="E:/SDL 2/SDL2_ttf-2.0.14/i686-w64-mingw32/include/SDL2" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer" />
+			<Add directory="E:/SDL 2/lib" />
+			<Add directory="E:/SDL 2/SDL2_image-2.0.1/i686-w64-mingw32/lib" />
+			<Add directory="E:/SDL 2/SDL2_mixer-2.0.1/i686-w64-mingw32/lib" />
+			<Add directory="E:/SDL 2/SDL2_ttf-2.0.14/i686-w64-mingw32/lib" />
+		</Linker>
+		<Unit filename="ArmoredTruck.cpp" />
+		<Unit filename="ArmoredTruck.h" />
+		<Unit filename="Bullet.cpp" />
+		<Unit filename="Bullet.h" />
+		<Unit filename="Door.cpp" />
+		<Unit filename="Door.h" />
+		<Unit filename="Enemy.cpp" />
+		<Unit filename="Enemy.h" />
+		<Unit filename="FlatSurface.cpp" />
+		<Unit filename="FlatSurface.h" />
+		<Unit filename="GarbageGaurdian.cpp" />
+		<Unit filename="GarbageGaurdian.h" />
+		<Unit filename="Graphics.cpp" />
+		<Unit filename="Graphics.h" />
+		<Unit filename="KongaLee.cpp" />
+		<Unit filename="KongaLee.h" />
+		<Unit filename="Kultenta.cpp" />
+		<Unit filename="Kultenta.h" />
+		<Unit filename="Ledge.cpp" />
+		<Unit filename="Ledge.h" />
+		<Unit filename="Menus.cpp" />
+		<Unit filename="Menus.h" />
+		<Unit filename="NonFlatSurface.cpp" />
+		<Unit filename="NonFlatSurface.h" />
+		<Unit filename="Player.cpp" />
+		<Unit filename="Player.h" />
+		<Unit filename="RoboMaggot.cpp" />
+		<Unit filename="RoboMaggot.h" />
+		<Unit filename="SharkRobot.cpp" />
+		<Unit filename="SharkRobot.h" />
+		<Unit filename="Snowman.cpp" />
+		<Unit filename="Snowman.h" />
+		<Unit filename="Sorse.cpp" />
+		<Unit filename="Sorse.h" />
+		<Unit filename="TNTgent.cpp" />
+		<Unit filename="TNTgent.h" />
+		<Unit filename="TargetMaster.cpp" />
+		<Unit filename="TargetMaster.h" />
+		<Unit filename="Targets.cpp" />
+		<Unit filename="Targets.h" />
+		<Unit filename="Texture.cpp" />
+		<Unit filename="Texture.h" />
+		<Unit filename="Texture2.cpp" />
+		<Unit filename="Texture2.h" />
+		<Unit filename="Timer.cpp" />
+		<Unit filename="Timer.h" />
+		<Unit filename="Wermbl.cpp" />
+		<Unit filename="Wermbl.h" />
+		<Unit filename="Zipline.cpp" />
+		<Unit filename="Zipline.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
